@@ -17,6 +17,8 @@ The objective was to simulate common system administration and IT support tasks 
 - BitLocker Drive Encryption
 - Event Viewer
 - Local User Management
+- Git
+- Github
 
 ---
 
